@@ -155,3 +155,6 @@ A Flutter project template, an upgrade version of [`fluttour`](https://github.co
 
 ### [Practice](#practice)
 - [`Flutter x Magic Sliver Widgets`](https://github.com/dubydu/magic-sliver)
+
+### Article
+- https://itnext.io/flutter-clean-architecture-b53ce9e19d5a
